@@ -1,5 +1,5 @@
 
-# PasswordStore Audit Report //////////
+# PasswordStore Audit Report /////////
 
 Prepared by: eduardonicoleit
 Lead Auditors: 
